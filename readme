@@ -1,0 +1,156 @@
+Assignment 5 readme File
+
+------------------------------------------------------------------------
+Student 1: What is your name?
+Lacey Rose DeLucia
+
+
+------------------------------------------------------------------------
+Student 2: What is your name?
+Claire Shin
+
+
+------------------------------------------------------------------------
+Student 1: What authorized sources of information did you use to
+complete the assignment? COPY THE LIST of authorized sources of
+information given in the "Policies" web page (also available on armlab
+in the file ~cos217/AuthorizedSourcesList ) to this section of the
+readme file, and edit it as appropriate.
+
+The course's lectures.
+
+The course's precepts.
+
+The course's website.
+
+precept handouts.
+
+The course's current staff members outside of class time in office hours.
+
+The course's current staff members outside of class time through Ed.
+
+Current Intro Lab TAs through visits to the Intro COS Lab.
+
+
+
+------------------------------------------------------------------------
+Student 2: What authorized sources of information did you use to
+complete the assignment? COPY THE LIST of authorized sources of
+information given in the "Policies" web page (also available on armlab
+in the file ~cos217/AuthorizedSourcesList ) to this section of the
+readme file, and edit it as appropriate.
+
+The course's lectures.
+
+The course's precepts.
+
+The course's website.
+
+precept handouts.
+
+The course's current staff members outside of class time in office hours.
+
+The course's current staff members outside of class time through Ed.
+
+Current Intro Lab TAs through visits to the Intro COS Lab.
+
+
+
+------------------------------------------------------------------------
+Student 1: What unauthorized sources of information did you use to
+complete the assignment? List any unauthorized sources of information
+that you used to complete the assignment, and describe how you used
+them. The course "Policies" web page defines unauthorized sources of
+information, and any source that you have used but not listed in the
+authorized sources should be included here. Please note that using an
+unauthorized source may trigger a course penalty, and depending on the
+nature of the interaction, may additionally require the interaction
+being reported to the Committee on Discipline. Write "None" if you used
+no unauthorized sources of information.
+
+None
+
+
+
+------------------------------------------------------------------------
+Student 2: What unauthorized sources of information did you use to
+complete the assignment? List any unauthorized sources of information
+that you used to complete the assignment, and describe how you used
+them. The course "Policies" web page defines unauthorized sources of
+information, and any source that you have used but not listed in the
+authorized sources should be included here. Please note that using an
+unauthorized source may trigger a course penalty, and depending on the
+nature of the interaction, may additionally require the interaction
+being reported to the Committee on Discipline. Write "None" if you used
+no unauthorized sources of information.
+
+None
+
+
+
+------------------------------------------------------------------------
+Student 1: What is your assessment of the assignment? Was it helpful?
+Was it fun?
+
+It was not fun because I do not like Assembly
+Helped me concerptally and practice debugging
+
+
+------------------------------------------------------------------------
+Student 2: What is your assessment of the assignment? Was it helpful?
+Was it fun?
+
+This was more fun than the last assignment but still very 
+difficult
+
+
+
+------------------------------------------------------------------------
+(optional) What information can you provide about your submission that
+will help your grader to grade it in the most favorable light? In
+particular, what bugs are in your submission?
+
+
+
+------------------------------------------------------------------------
+What is your mywc program test plan?
+
+Boundary Tests:
+mywcB1.txt: Boundary test file that contains nothing
+mywcB2.txt: Boundary test file that contains lines but no characters
+mywcB3.txt: Boundary test file that contains the maximum number 
+of characters and lines
+
+Statement Tests:
+mywcST1.txt: Statement test file that contains five spaces, assuring 
+that in the while loop the isspace(char) conditional is met
+mywcST2.txt: Statement test file of a regular sentence containing new 
+lines and whitespaces, meaning it should go through all the conditionals 
+in the while loop; but it has no whitespace at the end, testing the 
+if (iInWord) lWordCount++ statement.
+
+Stress Tests:
+mywcSR1.txt: Stress test file that contains the maximum number 
+of printable ASCII characters, randomized
+mywcSR2.txt: Different stress test file that contains the maximum 
+number of printable ASCII characters, randomized, 
+with the maximum number of lines
+
+
+------------------------------------------------------------------------
+What are the CPU times consumed by the programs from Parts 2a, 2b, 2d,
+2e, and 2f to compute fib(250000) on armlab? Fill in the blanks.
+
+Part 2a:  12.053047 seconds
+
+Part 2b:  2.775542 seconds
+
+Part 2d:  7.874384 seconds
+
+Part 2e:  3.437044 seconds
+
+Part 2f:  1.847099 seconds
+
+
+
+
